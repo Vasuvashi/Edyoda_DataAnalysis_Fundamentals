@@ -1,1 +1,1 @@
-# Edyoda_DataAnalysis_Fundamentals
+# Edyoda_DataWrangling
